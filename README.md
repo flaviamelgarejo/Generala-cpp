@@ -15,7 +15,7 @@ Es el juego de la Generala por consola, en C++ con Code::Blocks.
 Condicionales, ciclos, funciones, vectores y separar el código en archivos `.h` y `.cpp`. Los dados salen al azar con `rand()` y `srand()`.
 
 ## Cómo probarlo
-Abrir `GENERALA.cbp` con Code::Blocks/Clion. Funciona en Windows.
+Abrir `GENERALA.cbp` con Code::Blocks. Funciona en Windows.
 
 ## Equipo
 Juan Ciuffo, Matías Monzón y Flavia Melgarejo.
