@@ -1,8 +1,8 @@
-# Generala 🎲
+# Generala 
 
-Trabajo práctico integrador de **Programación I** (Tecnicatura Universitaria en Programación, UTN, 2025). Lo hicimos en grupo.
+Trabajo práctico integrador de **Programación I** (Tecnicatura Universitaria en Programación, UTN, 2025). Hecho en grupo.
 
-Es el juego de la Generala por consola, hecho en C++ con Code::Blocks.
+Es el juego de la Generala por consola, en C++ con Code::Blocks.
 
 ## Qué hace
 
@@ -18,7 +18,7 @@ Condicionales, ciclos, funciones, vectores y separar el código en archivos `.h`
 
 ## Cómo probarlo
 
-Abrir `GENERALA.cbp` con Code::Blocks y apretar **F9**. Funciona en Windows.
+Abrir `GENERALA.cbp` con Code::Blocks/Clion. Funciona en Windows.
 
 ## Equipo
 
